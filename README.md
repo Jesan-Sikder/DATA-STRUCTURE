@@ -1,95 +1,69 @@
-# CodeHub: Combined Programming Language Folder
+# 📚 DATA-STRUCTURE
 
+## 📌 About
 
-## Overview
+**DATA-STRUCTURE** is a dedicated repository focused on implementing fundamental and advanced data structures using **C and C++**.
 
-Welcome to **CodeHub**, a centralized folder designed for organizing source codes and learning resources across multiple programming languages and paradigms. This repository serves as a personal and educational collection for solving problems, practicing competitive programming, and managing code snippets in languages like C, C++, Java, and Python.
+This repository is designed to strengthen core programming concepts, improve logical thinking, and build a strong foundation for competitive programming, technical interviews, and academic coursework.
 
----
-
-## Folder Structure
-
-The directory is structured for easy access and discoverability. Here’s what each subfolder contains:
-
-- **ALGORITHM-BY-C.P.P**:  
-  Algorithm implementations and problem-solutions using C and C++.
-
-- **BEECROWD**:  
-  Solutions and code for Beecrowd (formerly URI Online Judge) problem sets.
-
-- **CGPA-COUNTER**:  
-  CGPA (Cumulative Grade Point Average) calculation tools and scripts.
-
-- **COMPITIVE-PROGRAMMING**:  
-  Templates, solutions, and resources for competitive programming platforms and online contests.
-
-- **DATA-STRUCTURE**:  
-  Implementations of common data structures (arrays, linked lists, trees, etc.) in various programming languages.
-
-- **JAVA**:  
-  Java-based codes and projects, including object-oriented programming exercises.
-
-- **LEARNING-CODE**:  
-  Miscellaneous learning resources and sample codes from tutorials, books, or personal exploration.
-
-- **PYTHON**:  
-  Python projects, scripts, exercises, and programming solutions.
+It serves as a structured collection of data structure implementations with clear and efficient code.
 
 ---
 
-## Usage
+## 🚀 Objectives
 
-- **Browsing**:  
-  Navigate through each folder based on your area of interest or the programming language you wish to explore.
-
-- **Learning & Practice**:  
-  Use the example codes to learn concepts, solve problems, or prepare for coding interviews and contests.
-
-- **Contribution**:  
-  You are welcome to suggest improvements or contribute new solutions and learning materials! Fork this repository and submit a pull request with your additions.
+* 📘 Master fundamental data structures using C & C++
+* 🧠 Improve problem-solving and analytical skills
+* ⚡ Understand time and space complexity
+* 🏗 Build strong foundations for algorithms
+* 🏆 Prepare for coding interviews and contests
 
 ---
 
-## Getting Started
+## 📂 Topics Covered
 
-1. **Clone this repository**
+This repository may include implementations of:
 
-    ```sh
-    git clone <your-repo-url>
-    ```
+### 🔹 Linear Data Structures
 
-2. **Explore by Language or Topic**
+* Arrays
+* Linked List (Singly, Doubly, Circular)
+* Stack
+* Queue
+* Deque
 
-    - Select the relevant subfolder (e.g., `ALGORITHM-BY-C.P.P` for C/C++ algorithms, `JAVA` for Java exercises).
+### 🔹 Non-Linear Data Structures
 
-3. **Run Code Examples**
+* Trees
+  * Binary Tree
+  * Binary Search Tree (BST)
+  * Traversals (Inorder, Preorder, Postorder)
+* Heap
+* Graph
 
-    - Make sure you have the necessary compiler/interpreter for the selected language:
-        - C/C++: GCC or MSVC
-        - Java: JDK installed
-        - Python: Python 3.x
+### 🔹 Hashing
 
----
+### 🔹 Recursion-Based Structures
 
-## Why This Project Exists
-
-- To keep all personal and academic programming material organized in one place.
-- To facilitate quick reference and review during study sessions or interviews.
-- To encourage cross-language learning and problem solving.
-
----
-
-## License
-
-This repository is open-source and available under the MIT License.
+### 🔹 STL-Based Implementations (C++)
 
 ---
 
-## Author & Acknowledgment
+## 🛠 Technologies Used
 
-Created and maintained by [Your Name].  
-Resources and solutions collected from personal study, open platforms, and contributions by fellow programmers.
+* **C**
+* **C++**
+* GCC / G++ Compiler
+* Standard Template Library (STL)
 
 ---
 
-*Last updated: January 2026*
+## ▶️ How to Run
+
+Make sure GCC/G++ is installed on your system.
+
+### Compile C Code
+
+```bash
+gcc filename.c -o output
+./output
